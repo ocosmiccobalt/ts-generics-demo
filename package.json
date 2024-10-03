@@ -1,0 +1,14 @@
+{
+  "name": "ts-generics-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Understanding TypeScript: Generics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
